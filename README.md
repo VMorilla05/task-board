@@ -1,17 +1,16 @@
-# vite-template-redux
+# Task Board
 
-Uses [Vite](https://vitejs.dev/), [Vitest](https://vitest.dev/), and [React Testing Library](https://github.com/testing-library/react-testing-library) to create a modern [React](https://react.dev/) app compatible with [Create React App](https://create-react-app.dev/)
+requirements:
+Node.js version 14.18+, 16+
 
-```sh
-npx degit reduxjs/redux-templates/packages/vite-template-redux my-app
-```
+Setup to run:
+- Clone repo
+- npm i
+- npm run dev
 
 ## Goals
 
-- Easy migration from Create React App or Vite
-- As beginner friendly as Create React App
-- Optimized performance compared to Create React App
-- Customizable without ejecting
+- Create a todo app with data fething
 
 ## Scripts
 
